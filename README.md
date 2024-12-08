@@ -4,6 +4,6 @@
 
 ## 使い方
 
-- PCのブラウザでTower Records Musicにログインし、変換したいプレイリストを表示。「名前を付けて保存」でHTMLファイルを保存。
-- python towerRecordsMusic2csv.py [HTMLファイル名]
-- 生成されたCSVをSoundiizでインポートし、任意の音楽サービス向けに変換。
+1. PCのブラウザでTower Records Musicにログインし、変換したいプレイリストを表示。「名前を付けて保存」でHTMLファイルを保存。
+1. python towerRecordsMusic2csv.py [HTMLファイル名]
+1. 生成されたCSVをSoundiizでインポートし、任意の音楽サービス向けに変換。
